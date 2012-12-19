@@ -1,0 +1,8 @@
+Ctrl + D  複数箇所選択
+Ctrl + U  soft undo 選択、カーソル位置も戻る
+Ctrl + w  ファイルを閉じる
+Ctrl + p  Goto Anything
+          @  シンボルや関数検索 (Ctrl + r)
+          : 行ジャンプ (Ctrl + g)
+          # ファイル内の文字列検索
+Ctrl + shift + P  Command Palette
