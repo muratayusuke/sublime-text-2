@@ -1,4 +1,6 @@
-Settings/Auto Save Session.sublime_session
-Settings/Session.sublime_session
 *.pyc
 *.cache
+
+/Settings/Auto Save Session.sublime_session
+/Settings/Session.sublime_session
+/Packages/user/encoding_cache.json
