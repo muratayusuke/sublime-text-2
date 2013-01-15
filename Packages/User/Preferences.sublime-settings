@@ -1,3 +1,4 @@
 {
-	"color_scheme": "Packages/TextMateThemes/Merbivore Soft.tmTheme"
+	"color_scheme": "Packages/TextMateThemes/Merbivore Soft.tmTheme",
+	"word_wrap": "true"
 }
